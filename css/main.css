@@ -40,3 +40,38 @@ td {
   color: #333;
   background-color: #f2f2f2;
 }
+
+.surtsey {
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  color: #51603f;
+  background-color: #d1e0bf;
+}
+
+.robert {
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  color: #51603f;
+  background-color: #d1e0bf;
+}
+
+.death {
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  color: #38448e;
+  background-color: #d2d6f0;
+}
+
+.doctor {
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  color: #38448e;
+  background-color: #d2d6f0;
+}
+
+.remember {
+  border: 1px solid #b92828;
+  border-radius: 8px;
+  color: #991919;
+  background-color: #f2bcbc;
+}
