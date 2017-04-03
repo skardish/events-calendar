@@ -1,3 +1,42 @@
 html {
   font-family: Merriweather, serif;
 }
+
+table {
+  border: 1px solid #ccc;
+  border: 1px solid #666;
+}
+
+td {
+  height: 10rem;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.india {
+  border: 1px solid #666;
+  border-radius: 8px;
+  color: #333;
+  background-color: #f2f2f2;
+}
+
+.kosmo {
+  border: 1px solid #666;
+  border-radius: 8px;
+  color: #333;
+  background-color: #f2f2f2;
+}
+
+.explore {
+  border: 1px solid #666;
+  border-radius: 8px;
+  color: #333;
+  background-color: #f2f2f2;
+}
+
+.vostok {
+  border: 1px solid #666;
+  border-radius: 8px;
+  color: #333;
+  background-color: #f2f2f2;
+}
